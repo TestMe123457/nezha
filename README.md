@@ -47,3 +47,4 @@ You can change the dashboard language in the settings page (`/setting`) after th
 - [@dysf888](https://github.com/dysf888) for the installation script in Windows.
 - [@MartijnLindeman](https://github.com/MartijnLindeman) for his perseverance has taken us to the international market.
 - and other [contributors](https://github.com/naiba/nezha/graphs/contributors).
+test
